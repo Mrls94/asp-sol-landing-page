@@ -11,7 +11,7 @@ class SideBar extends Component {
         <nav>
           <div>
             <Link to="/">
-              <img src={logo}></img>
+              <img className="logo-img" src={logo}></img>
             </Link>
           </div>
           <div><img src={hamburger}/></div>
