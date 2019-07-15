@@ -1,0 +1,22 @@
+.contact-info {
+  height: 400px;
+  color: #5b5b5f;
+}
+
+span {
+  color: #4286ff
+}
+
+.header-text {
+  width: 205px;
+  font-size: 2em;
+  display: inline-block;
+  margin-left: 20%;
+  margin-right: 20%
+}
+
+.contact-info-container {
+  display: inline-block;
+  width: 205px;
+  text-align: right;
+}
